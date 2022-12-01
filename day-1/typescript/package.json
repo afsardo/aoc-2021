@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "solution-a": "bun run src/solution-a.ts",
+    "solution-b": "bun run src/solution-b.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bun-types": "^0.2.2"
+  }
+}
